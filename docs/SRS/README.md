@@ -1,1 +1,2 @@
 
+This directory will contain the project source code.
